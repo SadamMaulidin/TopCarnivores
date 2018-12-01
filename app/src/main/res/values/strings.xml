@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Top Carnivores</string>
+    <string-array name="hewan_name">
+        <item>Singa</item>
+        <item>Coyote</item>
+        <item>Elang</item>
+        <item>Harimau</item>
+        <item>Buaya</item>
+        <item>Cheetah</item>
+        <item>Hiu</item>
+        <item>Komodo</item>
+        <item>Hyena</item>
+    </string-array>
+    <string-array name="hewan_detail">
+        <item>Singa (bahasa Sanskerta: Siṃha, atau dalam bahasa Latin: Panthera leo) adalah spesies hewan dari keluarga felidae atau jenis kucing. Singa merupakan hewan yang hidup berkelompok. Biasanya terdiri dari seekor jantan dan banyak betina. Kelompok ini menjaga daerah kekuasaannya. Umur singa antara 10 sampai 15 tahun di alam bebas, tetapi dalm penangkaran memungkinkan lebih dari 20 tahun.
+
+Singa betina jauh lebih aktif dalam berburu, sedangkan singa jantan lebih santai bersikap menunggu dan meminta jatah dari hasil buruan para betinanya. Singa jantan dipercaya lebih unggul dan perkasa dibandingkan dengan kucing besar lainnya, tetapi kelemahan singa ialah tidak bisa memanjat pohon sebagus kucing-kucing besar lainnya. Singa jantan ditumbuhi bulu tebal di sekitar tengkuknya, hal ini lebih menguntungkan untuk melindungi tengkuknya, terutama dalam perkelahian bebas antara kucing besar yang cenderung menerkam tengkuk untuk melumpuhkan musuhnya.
+
+Kucing besar lainnya, seperti citah dan macan tutul memiliki ukuran tubuh jauh lebih kecil dibanding singa. Walaupun berasal dari keluarga yang sama dengan harimau, singa tidak suka dengan air. Berbeda dengan harimau yang suka dengan air.</item>
+        <item>Coyote (Canis latrans, artinya "anjing yang menggonggong") juga serigala prairie) adalah anggota dari keluarga Canidae (anjing) dan kerabat dekat dari Serigala abu-abu. Ada 19 subspesies koyote yang diakui (Voigt dan Berg, 1999). Koyote adalah binatang asli Amerika Utara dan ditemukan dari Alaska hingga Panama. Para penjelajah Eropa pertama kali menemukan jenis anjing ini dalam perjalnaan mereka di daerah Amerika barat daya. Mereka kadang-kadang bergerombol dalam sebuah kawanan kecil, tetapi umumnya mereka berburu sendirian. Masa hidup koyote rata-rata 6 hingga 10 tahun. Kata "koyote" dipinjam dari bahasa Spanyol Meksiko, yang pada gilirannya meminjam istilahnya dari bahasa Nahuatl (Aztek) coyōtl (IPA [ˈkojoːtɬ]).
+
+Profil koyote tampak sangat mirip dengan serigala merah yang terancam punah. Ukurannya, warna, dan bentuk kepala keduanya sama.
+
+Meskipun diburu besar-besaran, koyote adalah salah satu dari segelintir binatang yang berukuran menengah hingga besar yang berhasil meningkatkan penyebarannya sejak manusia mulai merambah lingkungannya (binatang lainnya adalah rakun). Mulanya koyote menyebar terutama di bagian barat Amerika Utara, namun ia cepat menyesuaikan diri dengan perubahan-perubahan yang disebabkan oleh pendudukan manusia, dan sejak akhir abad ke-19, dengan tetap berhasil memperluas daerah penyebarannya. Kini koyote sering terlihat di California, Oregon, New England, dan Kanada timur. Koyote telah pindah ke kebanyakan wilayah Amerika Utara yang tadinya dikuasai oleh serigala, dan seringkali terlihat mencari makan di tempat-tempat sampah di daerah suburbia.</item>
+        <item>
+Elang kilau-tajam
+Elang merupakan salah satu dari hewan yang terdapat di seluruh Indonesia. Dalam Bahasa inggris, eagle atau elang merujuk pada burung pemangsa berukuran besar dari suku Accipitridae terutama genus Aquila. Sementara itu burung-burung pemangsa yang lebih kecil dalam Daftar Burung Indonesia nomor 2 disebut Elang-alap (Hawk, genus Accipiter).</item>
+        <item>Harimau (bahasa Latin: Panthera tigris) adalah hewan yang tergolong dalam filum Chordata, subfilum vertebrata, kelas mamalia, pemakan daging (karnivora), keluarga felidae (kucing), genus panthera, dan tergolong dalam spesies tigris.
+
+Harimau adalah jenis kucing terbesar dari spesiesnya, bahkan lebih besar dari singa. Harimau juga adalah kucing tercepat kedua dalam berlari, setelah citah. Dalam keseluruhan karnivora, harimau adalah kucing karnivora terbesar dan karnivora terbesar ketiga setelah beruang kutub dan beruang coklat.
+
+Harimau biasanya memburu mangsa yang agak besar seperti rusa sambar, kijang, babi, atau kancil. Namun, harimau akan memburu hewan kecil seperti landak apabila mangsa yang agak besar itu tidak ada. Meskipun berasal dari keluarga yang sama, harimau berbeda dengan kucing biasa yang kecil, harimau sangat suka berenang, dan pada dasarnya kucing takut dengan air.</item>
+        <item>Buaya adalah reptil bertubuh besar yang hidup di air. Secara ilmiah, buaya meliputi seluruh spesies anggota suku Crocodylidae, termasuk pula buaya sepit (Tomistoma schlegelii). Meski demikian nama ini dapat pula dikenakan secara longgar untuk menyebut ‘buaya’ aligator, kaiman dan gavial; yakni kerabat-kerabat buaya yang berlainan suku.
+
+Buaya umumnya menghuni habitat perairan tawar seperti sungai, danau, rawa dan lahan basah lainnya, namun ada pula yang hidup di air payau seperti buaya muara. Makanan utama buaya adalah hewan-hewan bertulang belakang seperti bangsa ikan, reptil dan mamalia, kadang-kadang juga memangsa moluska dan krustasea bergantung pada spesiesnya. Buaya merupakan hewan purba, yang hanya sedikit berubah karena evolusi semenjak zaman dinosaurus.
+
+Dikenal pula beberapa nama daerah untuk menyebut buaya, seperti misalnya buhaya (Sd.); buhaya (bjn); baya atau bajul (Jw.); bicokok (Btw.), bekatak, atau buaya katak untuk menyebut buaya bertubuh kecil gemuk; senyulong, buaya jolong-jolong (Mly.), atau buaya julung-julung untuk menyebut buaya ikan; buaya pandan, yakni buaya yang berwarna kehijauan; buaya tembaga, buaya yang berwarna kuning kecoklatan; dan lain-lain.
+
+
+Peta persebaran buaya
+Dalam bahasa Inggris buaya dikenal sebagai crocodile. Nama ini berasal dari penyebutan orang Yunani terhadap buaya yang mereka saksikan di Sungai Nil, krokodilos; kata bentukan yang berakar dari kata kroko, yang berarti ‘batu kerikil’, dan deilos yang berarti ‘cacing’ atau ‘orang’. Mereka menyebutnya ‘cacing bebatuan’ karena mengamati kebiasaan buaya berjemur di tepian sungai yang berbatu-batu.</item>
+        <item>Citah (bahasa Sanskerta: chitraka, berarti "berbintik", bahasa Inggris: cheetah, bahasa Latin: Acinonyx jubatus) adalah anggota keluarga kucing (Felidae) yang berburu mangsa dengan menggunakan kecepatan dan bukan taktik mengendap-endap atau bergerombol. Hewan ini adalah hewan yang tercepat di antara hewan darat dan dapat mencapai kecepatan 110 km/jam dalam waktu singkat sampai 460 m, dengan akselerasi 0 – 100 km/jam dalam waktu 3,5 detik, lebih cepat dari beberapa mobil balap. Konon, selama bertahun-tahun citah hanya dikenal sebagai cerita hantu. Menurut cerita, binatang pemangsa besar dengan garis-garis mirip harimau pada tubuhnya ini sering membawa kabur orang-orang yang berada di perbatasan Mozambik. Penduduk di sana sering memberi julukan citah dengan "magwa".
+
+Citah juga dikenal sebagai pemangsa paling efisien di bumi. Mengejar dan menerkam mangsa hanya ketika mangsa itu ada dalam jangkauannya. Hewan ini tergolong pintar dengan kemampuannya mendeteksi hewan yang paling lemah. Ia menjatuhkan korban bukan dengan menerkam seperti singa atau harimau. Tapi pada sentuhan kecil di kaki belakang korban yang sedang berlari kencang. Saat korban jatuh, citah kemudian menerkam tengkuk korban untuk kemudian selanjutnya dicengkram hingga kehabisan darah.
+
+Meski terkenal sebagai pemburu menakutkan di padang Afrika, namun faktanya hanya 40% hingga 50% aktivitas berburunya yang membuahkan hasil. Pernah berkembang mitos bahwa kepanasan adalah penyebab mengapa citah gagal dalam berburu. Namun penelitian terbaru menunjukkan bahwa citah yang mulai memakan mangsanya sesaat setelah berhasil berburu mengalami kenaikan temperatur tubuh dua kali lipat dibandingkan dengan citah yang menghentikan aktivitas berburunya.</item>
+        <item>Ikan Hiu adalah sekelompok (superordo Selachimorpha) ikan dengan kerangka tulang rawan yang lengkap dan tubuh yang ramping. Mereka bernapas dengan menggunakan lima liang insang (kadang-kadang enam atau tujuh, tergantung pada spesiesnya) di samping, atau dimulai sedikit di belakang, kepalanya. Hiu mempunyai tubuh yang dilapisi kulit dermal denticles untuk melindungi kulit mereka dari kerusakan, dari parasit, dan untuk menambah dinamika air. Mereka mempunyai beberapa deret gigi yang dapat digantikan.
+
+Hiu mencakup spesies yang berukuran sebesar telapak tangan. Hiu pigmi, Euprotomicrus bispinatus, sebuah spesies dari laut dalam yang panjangnya hanya 22 cm, hingga hiu paus, Rhincodon typus, ikan terbesar yang mampu tumbuh hingga sekitar 12 meter dan yang, seperti ikan paus, hanya memakan plankton melalui alat penyaring di mulutnya. Hiu banteng, Carcharhinus leucas, adalah yang paling terkenal dari beberapa spesies yang berenang di air laut maupun air tawar (jenis ini ditemukan di Danau Nikaragua, di Amerika Tengah) dan di delta-delta.</item>
+        <item>Komodo, atau yang selengkapnya disebut biawak komodo (Varanus komodoensis), adalah spesies kadal terbesar di dunia yang hidup di pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Nusa Tenggara. Biawak ini oleh penduduk asli pulau Komodo juga disebut dengan nama setempat ora.
+
+Termasuk anggota famili biawak Varanidae, dan klad Toxicofera, komodo merupakan kadal terbesar di dunia, dengan rata-rata panjang 2-3 m. Ukurannya yang besar ini berhubungan dengan gejala gigantisme pulau, yakni kecenderungan meraksasanya tubuh hewan-hewan tertentu yang hidup di pulau kecil terkait dengan tidak adanya mamalia karnivora di pulau tempat hidup komodo, dan laju metabolisme komodo yang kecil. Karena besar tubuhnya, kadal ini menduduki posisi predator puncak yang mendominasi ekosistem tempatnya hidup.
+
+Tubuhnya yang besar dan reputasinya yang mengerikan membuat mereka populer di kebun binatang. Habitat komodo di alam bebas telah menyusut akibat aktivitas manusia dan karenanya IUCN memasukkan komodo sebagai spesies yang rentan terhadap kepunahan. Biawak besar ini kini dilindungi di bawah peraturan pemerintah Indonesia dan sebuah taman nasional, yaitu Taman Nasional Komodo, didirikan untuk melindungi mereka.</item>
+        <item>Dubuk (Crocuta crocuta) atau dubuk tutul, adalah mamalia karnivora dari suku Hyaenidae, yang jumlahnya terbanyak di antara spesies yang sekerabat dengannya. Meskipun daerah persebaran spesies ini selama masa prasejarah mencakup Eurasia dari Eropa Atlantik sampai Cina, sekarang mereka hanya terdapat di seluruh Afrika di sebelah selatan Sahara kecuali Lembah Kongo. Dubuk hidup di sebuah komunitas matriarkal yang disebut klan, yang terdiri sampai 80 individu.
+
+Meskipun seringkali dianggap sebagai hewan pemakan bangkai yang penakut, sebagian besar dubuk mendapatkan makanan dengan cara berburu hewan ungulata berukuran sedang, dan seringkali berselisih dengan singa mengenai masalah makanan dan wilayah kekuasaan. Mereka termasuk yang tercerdas di antara hewan karnivora, dengan penelitian yang mengindikasikan tingkat kecerdasan sosial mereka setara dengan spesies primata.
+
+Dubuk biasanya muncul dalam mitologi dan cerita rakyat Afrika, dengan penggambaran sosok yang berbeda-beda, mulai dari pembawa terang, sampai simbol kerusakan moral.</item>
+    </string-array>
+</resources>
